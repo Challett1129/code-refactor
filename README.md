@@ -9,7 +9,7 @@
 * css
 
 ## Website
-challett1129.github.io/code-refactor
+https://challett1129.github.io/code-refactor
 
 ## Contribution 
 Made with ❤️ by Collin Hallett 
